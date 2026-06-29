@@ -1,3 +1,4 @@
+gcloud run deploy compliance-agent --source .
 # Agent Development Kit Web UI (ADK WEB)
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
